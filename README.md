@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicFix — Local Civic Issue Reporting & Resolution Tracking System
 
 > **A professional, secure, and modern desktop application for municipal civic issue reporting, automated triage, field worker dispatch, progress tracking, and photographic resolution verification.**
@@ -315,3 +316,7 @@ python scripts/verify_database.py
 - [x] **Phase 10: Advanced Analytics & Before/After Comparison** — Reusable `BeforeAfterComparisonWidget`, department efficiency metrics, 24-column CSV exports.
 - [x] **Phase 11: End-to-End System Testing & Invariants** — 44 automated tests across 5 test suites, SQL injection resilience, concurrency validation.
 - [x] **Phase 12: Documentation, Demo Script & Final Polish** — Comprehensive `README.md`, `DEMO_GUIDE.md`, sample image generation, production readiness.
+=======
+# CivicFix
+local issue reporting and resolution tracking system
+>>>>>>> 8d4dcbbd99ab7c7297bfbb7b686d6584e89e4570
